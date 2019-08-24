@@ -1,0 +1,11 @@
+
+# Playlists
+| url
+default.m3u
+
+# Songs
+| url | title | author | album | year | genre | length | kudos | nr
+Eve.flac | Eve | mindthings | Shared Loneliness | 2010 | Chillstep | 00:04:56 | 0 | 002
+example.flac | Carapace | Ed Harrison | Neotokyo NSF | 2009 | ? | 00:05:17 | 0 | 007
+example.mp3 | Take A Picture | Filter | Title Of Record | 1999 | Rock | 00:06:03 | 0 | 006
+Riven.flac | Riven | Aes Dana | Pollen | 2012 | Ambient | 00:07:22 | 0 | 007
